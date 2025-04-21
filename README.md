@@ -19,6 +19,8 @@ To preserve and expand humanity through deep space — ethically, sustainably, a
 
 - `Aletheia.md` – Full living document in Markdown
 - `Aletheia_v1.0.pdf` – Rendered version 1.0 of the living document
+- `Aletheia_v1.1.pdf` – Rendered version 1.1 of the living document
+- `Aletheia_v1.1a.pdf` – Rendered version 1.1a of the living document
 - `changelog.md` – Version history and major revisions
 - `/images/` – Concept art and illustrations
 
