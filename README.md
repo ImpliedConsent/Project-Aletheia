@@ -17,15 +17,11 @@ To preserve and expand humanity through deep space — ethically, sustainably, a
 
 ## Repository Contents
 
-- `Aletheia.md` – Full living document in Markdown
-- `Aletheia_v1.0.pdf` – Rendered version 1.0 of the living document
-- `Aletheia_v1.1.pdf` – Rendered version 1.1 of the living document
-- `Aletheia_v1.1a.pdf` – Rendered version 1.1a of the living document
-- `changelog.md` – Version history and major revisions
-- `/images/` – Concept art and illustrations
+- All documents in Main are draft. Download latest from "Releases"
+- Do not forget the Aletheia Expansion documents.
 
 ## License
 
 This work is provided under a custom "For Humanity" license. See the LICENSE file for details.
 
-Created by Michael Murphy with OpenAI collaboration.
+Created by Michael Murphy with Grok and OpenAI collaboration.
