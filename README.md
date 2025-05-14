@@ -19,7 +19,7 @@ To preserve and expand humanity through deep space — ethically, sustainably, a
 
 - Check Main for draft
 - Check "Releases" for the latest release
-- Check "Aletheia Design Expansion" fork for latest expansion ideas.
+- Check "Aletheia Design Expansion" branch for latest expansion ideas.
 
 ## License
 
