@@ -23,6 +23,9 @@ All official versions and updates of Project Aletheia are published via the [Rel
 
 - **Get the Latest:**  
   Download the current official version from the [Releases](https://github.com/ImpliedConsent/Project-Aletheia/releases) page and download the latest technical document (usually a `Aletheia_version_date.pdf` format).
+  
+  - **Version History:**  
+  Most prior versions are preserved and available in Releases for audit, comparison, or research. Initial design accidently deleted.
 
 - **License:**  
   This project is released under the [MIT License](LICENSE). Use, adaptation, and redistribution are allowed with attribution.
